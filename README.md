@@ -5,7 +5,7 @@ I'm Carolina Tsuda, but everyone calls me Carol.\
 🏳️‍🌈 Proud member of the LGBTQIA+ community who values diversity and inclusion for all.\
 📝 Lifelong learner and aspiring mathematics researcher, eager to explore the world of programming.\
 👩🏻‍🏫 Background in pure mathematics and mathematics education.\
-👩🏻‍🎓 Currently pursuing a masters degree in Applied Mathematics, at Fundação Getulio Vargas.\
+👩🏻‍🎓 Currently pursuing a masters degree in Mathematical Modelling, at the School of Applied Mathematics - Fundação Getulio Vargas.\
 🐈‍⬛ Passionate about science communication, education, astronomy and cute videos of cats.
 
 ## Message me!
